@@ -4,7 +4,7 @@ A way to calculate the midpoint between two people on a map, and find places to 
 ## api key
 To use this project, you need a google maps API key. Just create a `.env` file, and make a new variable called `PUBLIC_GOOGLE_MAPS_API_KEY`. set this variable equal to the maps api key that you have. You can make an api key for maps in the google cloud console.
 
-![](https://github.com/bhargavg1/midpointfinder/blob/master/midpoint%20gif.gif)
+![the gif will load shortly...](https://github.com/bhargavg1/midpointfinder/blob/master/midpoint%20gif.gif)
 
 ## sv
 
