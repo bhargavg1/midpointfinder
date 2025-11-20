@@ -20,6 +20,11 @@
 		"svelte-check": "^4.0.0",
 		"tailwindcss": "^4.0.0",
 		"typescript": "^5.0.0",
-		"vite": "^6.2.5"
+		"vite": "^6.4.1"
+	},
+	"dependencies": {
+		"@googlemaps/js-api-loader": "^2.0.2",
+		"sv": "^0.9.9",
+		"svelte-geolocation": "^1.0.0"
 	}
 }
